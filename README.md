@@ -13,7 +13,3 @@ It also prints:
 - Number of developed nodes
 - Step-by-step solution (when found)
 - Efficiency summary of all algorithms
-
----
-
-### ▶️ Example Input
